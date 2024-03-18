@@ -1,0 +1,1 @@
+class BreweriesDTO : ArrayList<BreweriesDTOItem>()
